@@ -16,7 +16,6 @@ This program will calculate the sum of the digits of the user-input number and d
 
 ## FAQ
 - How to stop the script? Ctrl+C (control+C for Mac) 
-- Script opens browser and nothing happens? Try checking the terminal. It might be asking for credentials.
 - For any other problems, feel free to raise an issue.
 
 ## Project ReadMe
