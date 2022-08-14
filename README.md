@@ -26,7 +26,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[Unilicense © Aditya Seth](https://github.com/AdityaSeth777/ES-CS291_Practice/blob/main_aditya/License)
+[Unlicense © Aditya Seth](https://github.com/AdityaSeth777/ES-CS291_Practice/blob/main_aditya/License)
 
 ## What next?
 I will be working on the 3rd semester programs which I will be uploading as well.
