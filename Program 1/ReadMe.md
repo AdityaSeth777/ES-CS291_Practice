@@ -15,12 +15,12 @@ Compound interest is the addition of interest to the principal sum of a loan or 
 5. And now you can run the example scripts or create your own scripts.  
 
 ## Usage
-- To run any program (without <math.h>), run ``` gcc filename.c -o name```, where filename is the name of the file you are wanting to execute; name = output executable file.
-- Then type ``` ./name```, and then press Enter to execute successfully.
+- To run any program (with <math.h>), run ``` gcc filename.c -lm```, where filename is the name of the file you are wanting to execute.
+- Then type ``` ./a.out```, and then press Enter to execute successfully.
 
 ## FAQ
 - How to stop the script? Ctrl+C (control+C for Mac) 
-- Script opens browser and nothing happens? Try checking the terminal. It might be asking for credentials.
+
 - For any other problems, feel free to raise an issue.
 
 ## Project ReadMe
