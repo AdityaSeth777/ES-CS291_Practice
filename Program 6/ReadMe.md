@@ -8,7 +8,7 @@ A number is said to be Peterson if the sum of factorials of each digit is equal 
 
 1. Create a ```C``` virtual environment. 
 2. Clone the repo ```git clone https://github.com/AdityaSeth777/ES-CS291_Practice.git``` or download the repository.
-3. Go to the cloned/downloaded directory ``` cd Program 5 ```.
+3. Go to the cloned/downloaded directory ``` cd Program 6 ```.
 4. Run ``` pip3 install gcc ```.
 5. And now you can run the example scripts or create your own scripts.  
 
