@@ -8,7 +8,6 @@ The different methods used here are:
 5. Bubble Sort
 
 ## How to Install
-
 1. Create a ```C``` virtual environment. 
 2. Clone the repo ```git clone https://github.com/AdityaSeth777/ES-CS291_Practice.git``` or download the repository.
 3. Go to the cloned/downloaded directory ``` cd Program 9 ```.
